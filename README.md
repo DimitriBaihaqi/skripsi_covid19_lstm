@@ -1,3 +1,2 @@
 # Skripsi Covid-19 LSTM
-Prediksi Kasus Terkonfirmasi COVID-19 LSTM Pytorch
-LSTM & Bi-LSTM
+Penelitian ini dilakukan untuk memenuhi sebagian persyaratan dalam memperoleh gelar sarjana Teknik Informatika Universitas Brawijaya. Penelitian ini mengangkat prediksi kasus terkonfirmasi COVID-19 berdasarkan varian yang diidentifikasi. Model yang digunakan adalah LSTM dan Bi-LSTM dibandingkan dengan RNN menggunakan pustaka Pytorch. Dataset yang digunakan merupakan milik European Center for Disease Control (ECDC) yang dapat diakses pada laman berikut: https://www.ecdc.europa.eu/en/publications-data/data-virus-variants-covid-19-eueea
